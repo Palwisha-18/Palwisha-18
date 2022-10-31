@@ -29,7 +29,8 @@ I love experimenting with different tools and languages. Here are the technologi
 
 
 <h3>💡 Familiar Tech</h3>
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&link=https://github.com/Palwisha-18/)](https://github.com/Palwisha-18/)
+
+[![C_lang](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&link=https://github.com/Palwisha-18/)](https://github.com/Palwisha-18/)
 [![Cplusplus](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&link=https://github.com/Palwisha-18/)](https://github.com/Palwisha-18/)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&link=https://github.com/Palwisha-18/)](https://github.com/Palwisha-18/)
 [![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white&link=https://github.com/Palwisha-18/)](https://github.com/Palwisha-18/)
@@ -41,9 +42,11 @@ I love experimenting with different tools and languages. Here are the technologi
 
 
 <h3>🧪 Curious About</h3>
+
 [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white&link=https://github.com/Palwisha-18/)](https://github.com/Palwisha-18/)
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&link=https://github.com/Palwisha-18/)](https://github.com/Palwisha-18/)
 
 
 <h3>📈 Stats</h3>
+
 [![Palwisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Palwisha-18&show_icons=true&count_private=true&theme=swift)](https://github.com/palwisha-18/github-readme-stats)
