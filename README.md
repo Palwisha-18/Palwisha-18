@@ -1,16 +1,49 @@
-### Hi there 👋
+<h2>Hello 👋, I'm Palwisha Akhtar</h2> 
 
-<!--
-**Palwisha-18/Palwisha-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🐍 I am a Python Developer from Calgary, Canada.
+- 💻 I am currently working at [Arbisoft](https://arbisoft.com/) as a Senior Software Engineer.
+- 🔎 I also have deep interest in parallel and multicore computing. I have worked on communication detection tools for identifying inter-thread communication in shared-memory systems as well as intra-node and inter-node multi-GPU systems.
+- 📫 You can reach me at the email in my github profile. Follow me on
+<a href="https://www.linkedin.com/in/palwisha-akhtar"><img src="https://img.shields.io/badge/-LinkedIn-gray?style=for-the-badge&labelColor=0077B5&logo=LinkedIn" alt="LinkedIn Badge"></a>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love experimenting with different tools and languages. Here are the technologies I use or have used:
+ 
+<h3>💻 Main Tech</h3>
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&link=https://github.com/Palwisha-18/)](https://github.com/Palwisha-18/)
+[![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&link=https://github.com/Palwisha-18/)](https://github.com/Palwisha-18/)
+[![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=for-the-badge&logo=fastapi&link=https://github.com/Palwisha-18/)](https://github.com/Palwisha-18/)
+
+
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&link=https://github.com/Palwisha-18/)](https://github.com/Palwisha-18/)
+[![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white&link=https://github.com/Palwisha-18/)](https://github.com/Palwisha-18/)
+[![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql&link=https://github.com/Palwisha-18/)](https://github.com/Palwisha-18/)
+
+[![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker&link=https://github.com/Palwisha-18/)](https://github.com/Palwisha-18/)
+[![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&link=https://github.com/Palwisha-18/)](https://github.com/Palwisha-18/)
+[![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white&link=https://github.com/Palwisha-18/)](https://github.com/Palwisha-18/)
+[![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white&link=https://github.com/Palwisha-18/)](https://github.com/Palwisha-18/)
+[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white&link=https://github.com/Palwisha-18/)](https://github.com/Palwisha-18/)
+[![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white&link=https://github.com/Palwisha-18/)](https://github.com/Palwisha-18/)
+
+
+<h3>💡 Familiar Tech</h3>
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&link=https://github.com/Palwisha-18/)](https://github.com/Palwisha-18/)
+[![Cplusplus](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&link=https://github.com/Palwisha-18/)](https://github.com/Palwisha-18/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&link=https://github.com/Palwisha-18/)](https://github.com/Palwisha-18/)
+[![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white&link=https://github.com/Palwisha-18/)](https://github.com/Palwisha-18/)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&link=https://github.com/Palwisha-18/)](https://github.com/Palwisha-18/)
+
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&link=https://github.com/Palwisha-18/)](https://github.com/Palwisha-18/)
+[![GoogleCloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&link=https://github.com/Palwisha-18/)](https://github.com/Palwisha-18/)
+[![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white&link=https://github.com/Palwisha-18/)](https://github.com/Palwisha-18/)
+
+
+<h3>🧪 Curious About</h3>
+[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white&link=https://github.com/Palwisha-18/)](https://github.com/Palwisha-18/)
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&link=https://github.com/Palwisha-18/)](https://github.com/Palwisha-18/)
+
+
+<h3>📈 Stats</h3>
+[![Palwisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Palwisha-18&show_icons=true&count_private=true&theme=swift)](https://github.com/palwisha-18/github-readme-stats)
