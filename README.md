@@ -13,6 +13,7 @@ I love experimenting with different tools and languages. Here are the technologi
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&link=https://github.com/Palwisha-18/)](https://github.com/Palwisha-18/)
 [![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&link=https://github.com/Palwisha-18/)](https://github.com/Palwisha-18/)
+[![DjangoREST](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white&link=https://github.com/Palwisha-18/)](https://github.com/Palwisha-18/)
 [![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=for-the-badge&logo=fastapi&link=https://github.com/Palwisha-18/)](https://github.com/Palwisha-18/)
 
 
@@ -23,8 +24,10 @@ I love experimenting with different tools and languages. Here are the technologi
 [![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker&link=https://github.com/Palwisha-18/)](https://github.com/Palwisha-18/)
 [![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&link=https://github.com/Palwisha-18/)](https://github.com/Palwisha-18/)
 [![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white&link=https://github.com/Palwisha-18/)](https://github.com/Palwisha-18/)
+[![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dataversioncontrol&logoColor=white&link=https://github.com/Palwisha-18/)](https://github.com/Palwisha-18/)
+[![CircleCI](https://img.shields.io/badge/circleci-%231572B6.svg?style=for-the-badge&logo=circleci&logoColor=white&link=https://github.com/Palwisha-18/)](https://github.com/Palwisha-18/)
 [![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white&link=https://github.com/Palwisha-18/)](https://github.com/Palwisha-18/)
-[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white&link=https://github.com/Palwisha-18/)](https://github.com/Palwisha-18/)
+[![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white&link=https://github.com/Palwisha-18/)](https://github.com/Palwisha-18/)
 [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white&link=https://github.com/Palwisha-18/)](https://github.com/Palwisha-18/)
 
 
@@ -38,6 +41,8 @@ I love experimenting with different tools and languages. Here are the technologi
 
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&link=https://github.com/Palwisha-18/)](https://github.com/Palwisha-18/)
 [![GoogleCloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&link=https://github.com/Palwisha-18/)](https://github.com/Palwisha-18/)
+[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white&link=https://github.com/Palwisha-18/)](https://github.com/Palwisha-18/)
+
 [![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white&link=https://github.com/Palwisha-18/)](https://github.com/Palwisha-18/)
 
 
@@ -45,6 +50,9 @@ I love experimenting with different tools and languages. Here are the technologi
 
 [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white&link=https://github.com/Palwisha-18/)](https://github.com/Palwisha-18/)
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&link=https://github.com/Palwisha-18/)](https://github.com/Palwisha-18/)
+[![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white&link=https://github.com/Palwisha-18/)](https://github.com/Palwisha-18/)
+[![GraphQl](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white&link=https://github.com/Palwisha-18/)](https://github.com/Palwisha-18/)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white&link=https://github.com/Palwisha-18/)](https://github.com/Palwisha-18/)
 
 
 <h3>📈 Stats</h3>
