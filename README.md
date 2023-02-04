@@ -15,6 +15,11 @@ I love experimenting with different tools and languages. Here are the technologi
 [![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&link=https://github.com/Palwisha-18/)](https://github.com/Palwisha-18/)
 [![DjangoREST](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white&link=https://github.com/Palwisha-18/)](https://github.com/Palwisha-18/)
 [![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=for-the-badge&logo=fastapi&link=https://github.com/Palwisha-18/)](https://github.com/Palwisha-18/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white&link=https://github.com/Palwisha-18/)](https://github.com/Palwisha-18/)
+
+[![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E&link=https://github.com/Palwisha-18/)](https://github.com/Palwisha-18/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white&link=https://github.com/Palwisha-18/)](https://github.com/Palwisha-18/)
+[![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white&link=https://github.com/Palwisha-18/)](https://github.com/Palwisha-18/)
 
 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&link=https://github.com/Palwisha-18/)](https://github.com/Palwisha-18/)
