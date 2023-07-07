@@ -58,8 +58,3 @@ I love experimenting with different tools and languages. Here are the technologi
 [![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white&link=https://github.com/Palwisha-18/)](https://github.com/Palwisha-18/)
 [![GraphQl](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white&link=https://github.com/Palwisha-18/)](https://github.com/Palwisha-18/)
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white&link=https://github.com/Palwisha-18/)](https://github.com/Palwisha-18/)
-
-
-<h3>📈 Stats</h3>
-
-[![Palwisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Palwisha-18&show_icons=true&count_private=true&theme=swift)](https://github.com/palwisha-18/github-readme-stats)
