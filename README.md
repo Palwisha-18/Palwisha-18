@@ -25,6 +25,7 @@ I love experimenting with different tools and languages. Here are the technologi
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&link=https://github.com/Palwisha-18/)](https://github.com/Palwisha-18/)
 [![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white&link=https://github.com/Palwisha-18/)](https://github.com/Palwisha-18/)
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql&link=https://github.com/Palwisha-18/)](https://github.com/Palwisha-18/)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 [![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker&link=https://github.com/Palwisha-18/)](https://github.com/Palwisha-18/)
 [![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&link=https://github.com/Palwisha-18/)](https://github.com/Palwisha-18/)
