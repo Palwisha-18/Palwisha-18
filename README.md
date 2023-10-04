@@ -1,8 +1,8 @@
 <h2>Hello 👋, I'm Palwisha Akhtar</h2> 
 
-- 🐍 I am a Python Developer based in Canada.
-- 💻 I am currently working at [Arbisoft](https://arbisoft.com/) as a Principal Software Engineer.
-- 🔎 I also have deep interest in parallel and multicore computing. I have worked on communication detection tools for identifying inter-thread communication in shared-memory systems as well as intra-node and inter-node multi-GPU systems.
+- 🐍 Python Developer based in Canada.
+- 💻 Currently working at [Arbisoft](https://arbisoft.com/) as a Principal Software Engineer.
+- 🔎 Have deep interest in parallel and multicore computing. I have worked on communication detection tools for identifying inter-thread communication in shared-memory systems as well as intra-node and inter-node multi-GPU systems.
 - 📫 You can reach me at the email in my github profile. Follow me on
 <a href="https://www.linkedin.com/in/palwisha-akhtar"><img src="https://img.shields.io/badge/-LinkedIn-gray?style=for-the-badge&labelColor=0077B5&logo=LinkedIn" alt="LinkedIn Badge"></a>
 
