@@ -33,7 +33,6 @@ I love experimenting with different tools and languages. Here are the technologi
 [![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dataversioncontrol&logoColor=white&link=https://github.com/Palwisha-18/)](https://github.com/Palwisha-18/)
 [![CircleCI](https://img.shields.io/badge/circleci-%231572B6.svg?style=for-the-badge&logo=circleci&logoColor=white&link=https://github.com/Palwisha-18/)](https://github.com/Palwisha-18/)
 [![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white&link=https://github.com/Palwisha-18/)](https://github.com/Palwisha-18/)
-[![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white&link=https://github.com/Palwisha-18/)](https://github.com/Palwisha-18/)
 [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white&link=https://github.com/Palwisha-18/)](https://github.com/Palwisha-18/)
 
 
