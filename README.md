@@ -1,7 +1,6 @@
 <h2>Hello 👋, I'm Palwisha Akhtar</h2> 
 
-- 🐍 Python Developer based in Canada.
-- 💻 Currently working at [Arbisoft](https://arbisoft.com/) as a Principal Software Engineer.
+- 🧞 Applied AI/ML engineer based in Canada.
 - 🔎 Have deep interest in parallel and multicore computing. I have worked on communication detection tools for identifying inter-thread communication in shared-memory systems as well as intra-node and inter-node multi-GPU systems.
 
 
